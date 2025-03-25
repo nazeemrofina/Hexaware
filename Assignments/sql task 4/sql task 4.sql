@@ -308,26 +308,15 @@ insert into teacher values(1011,'olivia','rodreger','olivia.rodreger@example.com
 --4 . Calculate the total payments made to courses taught by each teacher. Use subqueries to sum 
 --payments for each teacher's courses. 
 
-0
-
-select sum(amounts) from payments
-where()  
-
-select student_id from students
-where course_id=any(select course_id,t.teacher_id from teacher t join courses on courses.teacher_id=t.teacher_id
-where courses.teacher_id=t.teacher_id)
-
+select first_name,last_name,(
+select(
+select sum(amount) from payments where student_id in (select student_id from enrollments e join courses on
+e.course_id=courses.course_id
+where t.teacher_id=courses.teacher_id) ) )as
+payment 
+from teacher t
 
 
-
-
-select sum(amount),e.p.teacher_id from payments
-where student_id= any(select student_id from Enrollments
-where enrollments.course_id = any(select t.course_id from courses t) as p) as e
-group by  
-
-
-select * from teacher
 
 
 
