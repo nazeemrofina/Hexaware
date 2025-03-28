@@ -1,0 +1,15 @@
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\bin\Debug\net8.0\Assignment.exe
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\bin\Debug\net8.0\Assignment.deps.json
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\bin\Debug\net8.0\Assignment.dll
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\bin\Debug\net8.0\Assignment.pdb
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\obj\Debug\net8.0\Assignment.sourcelink.json
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\obj\Debug\net8.0\Assignment.dll
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\obj\Debug\net8.0\Assignment.pdb
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+C:\Hexaware c#\SQL assignments\c#\c#\Assignment\obj\Debug\net8.0\ref\Assignment.dll

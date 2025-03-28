@@ -6,6 +6,13 @@ select * from teacher
 select * from courses
 select * from payments
 select * from Enrollments
+where course_id=2011
+
+
+select course_name,count(student_id) from enrollments e join courses c
+on e.course_id=c.course_id
+group by e.course_id,c.course_name
+having course_name='SQL'
 
 drop table courses
 drop table teacher
