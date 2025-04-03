@@ -1,0 +1,15 @@
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\obj\Debug\net8.0\Assignment _day_5_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\obj\Debug\net8.0\Assignment _day_5_class.AssemblyInfoInputs.cache
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\obj\Debug\net8.0\Assignment _day_5_class.AssemblyInfo.cs
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\obj\Debug\net8.0\Assignment _day_5_class.csproj.CoreCompileInputs.cache
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\obj\Debug\net8.0\Assignment _day_5_class.sourcelink.json
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\bin\Debug\net8.0\Assignment _day_5_class.exe
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\bin\Debug\net8.0\Assignment _day_5_class.deps.json
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\bin\Debug\net8.0\Assignment _day_5_class.runtimeconfig.json
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\bin\Debug\net8.0\Assignment _day_5_class.dll
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\bin\Debug\net8.0\Assignment _day_5_class.pdb
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\obj\Debug\net8.0\Assignment _day_5_class.dll
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\obj\Debug\net8.0\refint\Assignment _day_5_class.dll
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\obj\Debug\net8.0\Assignment _day_5_class.pdb
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\obj\Debug\net8.0\Assignment _day_5_class.genruntimeconfig.cache
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment _day_5_class\Assignment _day_5_class\obj\Debug\net8.0\ref\Assignment _day_5_class.dll

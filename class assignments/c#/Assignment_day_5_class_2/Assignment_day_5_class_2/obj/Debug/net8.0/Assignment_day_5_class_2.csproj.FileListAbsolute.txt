@@ -1,0 +1,15 @@
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\bin\Debug\net8.0\Assignment_day_5_class_2.exe
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\bin\Debug\net8.0\Assignment_day_5_class_2.deps.json
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\bin\Debug\net8.0\Assignment_day_5_class_2.runtimeconfig.json
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\bin\Debug\net8.0\Assignment_day_5_class_2.dll
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\bin\Debug\net8.0\Assignment_day_5_class_2.pdb
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\obj\Debug\net8.0\Assignment_day_5_class_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\obj\Debug\net8.0\Assignment_day_5_class_2.AssemblyInfoInputs.cache
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\obj\Debug\net8.0\Assignment_day_5_class_2.AssemblyInfo.cs
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\obj\Debug\net8.0\Assignment_day_5_class_2.csproj.CoreCompileInputs.cache
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\obj\Debug\net8.0\Assignment_day_5_class_2.sourcelink.json
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\obj\Debug\net8.0\Assignment_day_5_class_2.dll
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\obj\Debug\net8.0\refint\Assignment_day_5_class_2.dll
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\obj\Debug\net8.0\Assignment_day_5_class_2.pdb
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\obj\Debug\net8.0\Assignment_day_5_class_2.genruntimeconfig.cache
+C:\Hexaware c#\Sql assignments\c#\c#\Assignment_day_5_class_2\Assignment_day_5_class_2\obj\Debug\net8.0\ref\Assignment_day_5_class_2.dll
