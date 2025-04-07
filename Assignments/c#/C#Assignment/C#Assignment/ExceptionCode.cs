@@ -9,29 +9,29 @@ namespace C_Assignment
 {
     class ExceptionCode
     {
+      
+
+            Students student1 = new Students(1, "Steve", "Hops", new DateTime(2003, 11, 08), "steve@mail.com", "98658685523");
+            Students student2 = new Students(2, "lady", "gaga", new DateTime(2003, 10, 11), "lady@mail.com", "7536984125");
+            Students student3 = new Students(3, "Adam", "kate", new DateTime(2003, 04, 19), "adam@mail.com", "7412589632");
+            Students student4 = new Students(4, "Gigi", "Hadid", new DateTime(2003, 06, 1), "gigi@mail.com", "4785123698");
+            Students student = new Students(5, "student", "student", new DateTime(2003, 6, 12), "student@mail.com", "4758963210");
+
+            Courses physics = new Courses(101, "physics", "phy101", "shree sakthi");
+            Courses maths = new Courses(201, "Maths", "mat201", "Sabeena Sharbudeen");
+            Courses science = new Courses(301, "Science", "sci301", "Karen stick");
+            Courses course = new Courses(401, "course", "cou90", "teacher teach");
+
+            Teachers teacher1 = new Teachers(1, "Sabeena", "Sharbudeen", "sabee@mail.com", "Maths");
+            Teachers teacher2 = new Teachers(2, "Karen", "stick", "karen@mail.com", "Science");
+            Teachers teacher3 = new Teachers(3, "shree", "sakthi", "shri@mail.com", "physics");
+            Teachers teacher = new Teachers(4, "teacher", "teach", "teacher@mail.com", "course");
+        
         public void Exception()
         {
 
-            Students student1 = new Students(1, "Steve", "Hops", new DateTime(2003, 11, 08), "steve@mail.com", "98658685523");
-        Students student2 = new Students(2, "lady", "gaga", new DateTime(2003, 10, 11), "lady@mail.com", "7536984125");
-        Students student3 = new Students(3, "Adam", "kate", new DateTime(2003, 04, 19), "adam@mail.com", "7412589632");
-        Students student4 = new Students(4, "Gigi", "Hadid", new DateTime(2003, 06, 1), "gigi@mail.com", "4785123698");
-        Students student = new Students(5, "student", "student", new DateTime(2003, 6, 12), "student@mail.com", "4758963210");
-
-        Courses physics = new Courses(101, "physics", "phy101", "");
-        Courses maths = new Courses(201, "Maths", "mat201", "");
-        Courses science = new Courses(301, "Science", "sci301", "");
-        Courses course = new Courses(401, "course", "cou90", "");
-
-        Teachers teacher1 = new Teachers(1, "Sabeena", "Sharbudeen", "sabee@mail.com", "maths");
-        Teachers teacher2 = new Teachers(2, "Karen", "stick", "karen@mail.com", "science");
-        Teachers teacher3 = new Teachers(3, "shree", "sakthi", "shri@mail.com", "physics");
-        Teachers teacher = new Teachers(4, "teacher", "teach", "teacher@mail.com", "Random");
-
-      
-
             Enrollments enrollment1 = new Enrollments(1, student1, maths, DateTime.Now);
-            Enrollments enrollment2 = new Enrollments(2, student1, science, DateTime.Now);
+            Enrollments enrollment2 = new Enrollments(2, student2, science, DateTime.Now);
           //  Console.WriteLine("Enrolled");
             ////try
             ////{

@@ -44,7 +44,7 @@ namespace C_Assignment
                 ExceptionCode.CheckCourseNotFoundException(course);
                 Enrollments enrollment = new Enrollments(enrollment_id++, this, course, DateTime.Now);
                 ExceptionCode.checkEnrollments(this, course);
-                EnrolledCourses.Add(enrollment);
+                this.EnrolledCourses.Add(enrollment);
             }
             catch(DuplicateEnrollmentException e)
             {

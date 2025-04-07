@@ -42,11 +42,15 @@
       "DocumentGroups": [
         {
           "DockedHeight": 283,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -58,8 +62,7 @@
               "RelativeToolTip": "CARS-Case Study\\Model\\Report.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:31:47.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T14:31:47.324Z"
             },
             {
               "$type": "Document",
@@ -71,8 +74,7 @@
               "RelativeToolTip": "CARS-Case Study\\Model\\Evidence.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:31:38.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T14:31:38.43Z"
             },
             {
               "$type": "Document",
@@ -84,8 +86,7 @@
               "RelativeToolTip": "CARS-Case Study\\Model\\Officer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:31:19.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T14:31:19.417Z"
             },
             {
               "$type": "Document",
@@ -97,8 +98,7 @@
               "RelativeToolTip": "CARS-Case Study\\Model\\Agency.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:30:11.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T14:30:11.123Z"
             },
             {
               "$type": "Document",
@@ -110,8 +110,7 @@
               "RelativeToolTip": "CARS-Case Study\\Model\\Suspect.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:29:44.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T14:29:44.039Z"
             },
             {
               "$type": "Document",
@@ -136,8 +135,7 @@
               "RelativeToolTip": "CARS-Case Study\\Model\\Incident.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:28:30.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T14:28:30.719Z"
             },
             {
               "$type": "Document",
@@ -149,12 +147,7 @@
               "RelativeToolTip": "CARS-Case Study\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:27:04.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-04-07T14:27:04.106Z"
             }
           ]
         }

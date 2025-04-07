@@ -26,6 +26,16 @@ namespace C_Assignment
             Expertise = expertise;
             AssignedCourses = new List<Courses>();
             AllTeachers.Add(this);
+           // Courses.AllCourses.Find());
+          foreach(var courses in Courses.AllCourses)
+            {
+                if (courses.CourseName == expertise)
+                {
+                   
+                    AssignedCourses.Add(courses);
+                    //courses.InstructorName = FirstName + " " + LastName;
+             }
+            }
         }
         public void UpdateTeacherInfo(string name, string email, string expertise)
         {

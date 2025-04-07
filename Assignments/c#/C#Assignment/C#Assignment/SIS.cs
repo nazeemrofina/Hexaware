@@ -143,7 +143,7 @@ namespace C_Assignment
                 string expertise = Console.ReadLine();
                 int id = Teachers.AllTeachers.Count + 1;
                 ExceptionCode.InvalidTeacherDataException(firstName, lastName, email, expertise);
-                new Teachers(id, firstName, lastName, email, expertise);
+                Teachers t=new Teachers(id, firstName, lastName, email, expertise);
             }
            catch(InvalidTeacherDataException e)
             {
@@ -265,11 +265,14 @@ namespace C_Assignment
             {
                 if(teacher.FirstName+" "+teacher.LastName== teacherName)
                 {
+                    Console.WriteLine(teacher.FirstName + " " + teacher.LastName);
                     foreach(var courses in teacher.GetAssignedCourse())
                     {
-                        Console.WriteLine(courses.CourseName);
+
+                        Console.WriteLine("COURSE ASSIGNED="+courses.CourseName);
                     }
                 }
+
             }
         }
 
