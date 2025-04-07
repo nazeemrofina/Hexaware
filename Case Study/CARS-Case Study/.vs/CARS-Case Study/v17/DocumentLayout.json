@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|c:\\hexaware c#\\sql assignments\\case study\\cars-case study\\cars-case study\\model\\victim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|solutionrelative:cars-case study\\model\\victim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|c:\\hexaware c#\\sql assignments\\case study\\cars-case study\\cars-case study\\model\\suspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|solutionrelative:cars-case study\\model\\suspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|c:\\hexaware c#\\sql assignments\\case study\\cars-case study\\cars-case study\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|solutionrelative:cars-case study\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|c:\\hexaware c#\\sql assignments\\case study\\cars-case study\\cars-case study\\model\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|solutionrelative:cars-case study\\model\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|c:\\hexaware c#\\sql assignments\\case study\\cars-case study\\cars-case study\\model\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|solutionrelative:cars-case study\\model\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|c:\\hexaware c#\\sql assignments\\case study\\cars-case study\\cars-case study\\model\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|solutionrelative:cars-case study\\model\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|c:\\hexaware c#\\sql assignments\\case study\\cars-case study\\cars-case study\\model\\agency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|solutionrelative:cars-case study\\model\\agency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|c:\\hexaware c#\\sql assignments\\case study\\cars-case study\\cars-case study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332C0007-617F-4F90-895A-02DC65EEE545}|CARS-Case Study\\CARS-Case Study.csproj|solutionrelative:cars-case study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Report.cs",
+              "RelativeDocumentMoniker": "CARS-Case Study\\Model\\Report.cs",
+              "ToolTip": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Report.cs",
+              "RelativeToolTip": "CARS-Case Study\\Model\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:31:47.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Evidence.cs",
+              "DocumentMoniker": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Evidence.cs",
+              "RelativeDocumentMoniker": "CARS-Case Study\\Model\\Evidence.cs",
+              "ToolTip": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Evidence.cs",
+              "RelativeToolTip": "CARS-Case Study\\Model\\Evidence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:31:38.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Officer.cs",
+              "DocumentMoniker": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Officer.cs",
+              "RelativeDocumentMoniker": "CARS-Case Study\\Model\\Officer.cs",
+              "ToolTip": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Officer.cs",
+              "RelativeToolTip": "CARS-Case Study\\Model\\Officer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:31:19.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Agency.cs",
+              "DocumentMoniker": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Agency.cs",
+              "RelativeDocumentMoniker": "CARS-Case Study\\Model\\Agency.cs",
+              "ToolTip": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Agency.cs",
+              "RelativeToolTip": "CARS-Case Study\\Model\\Agency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:30:11.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suspect.cs",
+              "DocumentMoniker": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Suspect.cs",
+              "RelativeDocumentMoniker": "CARS-Case Study\\Model\\Suspect.cs",
+              "ToolTip": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Suspect.cs",
+              "RelativeToolTip": "CARS-Case Study\\Model\\Suspect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:29:44.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Victim.cs",
+              "DocumentMoniker": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Victim.cs",
+              "RelativeDocumentMoniker": "CARS-Case Study\\Model\\Victim.cs",
+              "ToolTip": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Victim.cs",
+              "RelativeToolTip": "CARS-Case Study\\Model\\Victim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:29:29.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Incident.cs",
+              "DocumentMoniker": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Incident.cs",
+              "RelativeDocumentMoniker": "CARS-Case Study\\Model\\Incident.cs",
+              "ToolTip": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Model\\Incident.cs",
+              "RelativeToolTip": "CARS-Case Study\\Model\\Incident.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:28:30.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Program.cs",
+              "RelativeDocumentMoniker": "CARS-Case Study\\Program.cs",
+              "ToolTip": "C:\\Hexaware c#\\Sql assignments\\Case Study\\CARS-Case Study\\CARS-Case Study\\Program.cs",
+              "RelativeToolTip": "CARS-Case Study\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:27:04.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
