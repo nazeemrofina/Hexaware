@@ -10,8 +10,7 @@ namespace C_Assignment.Database
     class utility
     {
          SqlConnection con;
-        static SqlCommand cmd;
-        static SqlDataReader dr;
+       
 
         public  SqlConnection getConnection()
         {

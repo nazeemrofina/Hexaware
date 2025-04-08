@@ -12,8 +12,6 @@ namespace C_Assignment.Database_Methods
     {
         static SqlConnection con;
         static SqlDataReader sdr;
-      //  static SqlDataReader sdr2;
-       // static SqlDataReader sdr1;
         utility util = new utility();
         static int count = 27574;
         public  void InsertAndEnrollStudent()
@@ -45,17 +43,11 @@ namespace C_Assignment.Database_Methods
                
                 EnrollmentMethods.InsertIntoEnrollments(student_id,enrollmentid,DateTime.Now.Date, course_id);
                 Console.WriteLine("Do You Want to Enroll More Course True Or False ");
-                bool TrueORFalse=Convert.ToBoolean(Console.ReadLine());
-                if (TrueORFalse)
-                {
-                    exit = false;
-                }
-                else
-                {
-                    exit = true;
-                }
+                exit= Convert.ToBoolean(Console.ReadLine()); ;
+                Methods.GetAllStudents();
                 con.Close();
-                
+
+
             }
 
         }

@@ -18,7 +18,7 @@ namespace C_Assignment
         public static List<Students> AllStudents = new List<Students>();
         public List<Enrollments> EnrolledCourses { get; set; }
         public List<Payments> PaymentHistory { get; set; }
-        private static int enrollment_id = 0;
+        private static int enrollment_id = 3;
         private static int payment_id = 0;
 
 
@@ -42,7 +42,7 @@ namespace C_Assignment
                 ExceptionCode.checkDuplicateEnrollmentException(this, course);
                 ExceptionCode.CheckStudentNotFoundException(this);
                 ExceptionCode.CheckCourseNotFoundException(course);
-                Enrollments enrollment = new Enrollments(enrollment_id++, this, course, DateTime.Now);
+                Enrollments enrollment = new Enrollments(++enrollment_id, this, course, DateTime.Now);
                 ExceptionCode.checkEnrollments(this, course);
                 this.EnrolledCourses.Add(enrollment);
             }
@@ -88,7 +88,7 @@ namespace C_Assignment
             {
                 ExceptionCode.PaymentValidationException(amount, paymentDate);
                 ExceptionCode.CheckStudentNotFoundException(this);
-                Payments payment = new Payments(payment_id++, this, amount, paymentDate);
+                Payments payment = new Payments(++payment_id, this, amount, paymentDate);
                 PaymentHistory.Add(payment);
             }
             catch (PaymentValidationException e)

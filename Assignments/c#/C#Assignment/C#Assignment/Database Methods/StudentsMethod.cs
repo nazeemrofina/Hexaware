@@ -51,11 +51,13 @@ namespace C_Assignment.Database_Methods
                     con.Close();
                     
                 }
+
             }
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
+
             return student_id;
 
         }

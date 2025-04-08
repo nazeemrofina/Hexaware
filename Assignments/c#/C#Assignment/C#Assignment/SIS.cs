@@ -110,23 +110,25 @@ namespace C_Assignment
 
             foreach (var student in Students.AllStudents)
             {
-
-                if (student.StudentID == studentId)
-                {
-                    foreach (var course in Courses.AllCourses)
+                    if (student.StudentID == studentId)
                     {
-
-                        if (course.CourseID == courseId)
+                   
+                        foreach (var course in Courses.AllCourses)
                         {
-                            student.EnrollInCourse(course);
-                            Console.WriteLine("Successfully Enrolled");
-                            return;
+
+                            if (course.CourseID == courseId)
+                            {
+                                student.EnrollInCourse(course);
+                                Console.WriteLine("Successfully Enrolled");
+                                return;
+                            }
                         }
+
                     }
-                }
+                   
             }
 
-        Console.WriteLine("Enrollment failed: Student or Course not found.");
+     Console.WriteLine("Enrollment failed: Student or Course not found.");
         }
 
         public void AddTeacher()
@@ -265,7 +267,7 @@ namespace C_Assignment
             {
                 if(teacher.FirstName+" "+teacher.LastName== teacherName)
                 {
-                    Console.WriteLine(teacher.FirstName + " " + teacher.LastName);
+                   // Console.WriteLine(teacher.FirstName + " " + teacher.LastName);
                     foreach(var courses in teacher.GetAssignedCourse())
                     {
 
