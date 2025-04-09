@@ -14,6 +14,7 @@ namespace C__CodingChallenge
         SqlDataReader sdr;
         SqlConnection con;
         Utility util = new Utility();
+        SqlDataReader sdr2;
         public void ListAllPets()
         {
             PetShelter petShelter = new PetShelter();
@@ -47,21 +48,10 @@ namespace C__CodingChallenge
         public void AdoptionEventManagement()
         {
             adoptionEventClass aec = new adoptionEventClass();
-            sdr = aec.adoptioneventrecord();
-            int eventid = 0;
-            while (sdr.Read())
-            {
-                Console.WriteLine($"Do you want to register for {sdr["eventname"]}");
-                bool yes_no = Boolean.Parse(Console.ReadLine());
-                if (yes_no)
-                {
-                    eventid = Convert.ToInt32(sdr["eventid"]);
-                    Console.WriteLine(eventid);
-                    RecordParticipant(eventid);
-                     break;
-                }
-               
-            }
+            int number= aec.adoptioneventrecord();
+            Console.WriteLine(number);
+         //   int eventid = 0;
+
          
 
             Console.WriteLine("Give inputs of all the details of the Participant");
@@ -80,7 +70,7 @@ namespace C__CodingChallenge
                 sqlquery.Parameters.AddWithValue("ParticipantId", ++ParticipantId);
                 sqlquery.Parameters.AddWithValue("ParticipantName", ParticipantName);
                 sqlquery.Parameters.AddWithValue("ParticipantType", ParticipantType);
-                sqlquery.Parameters.AddWithValue("eventid", eventid);
+                sqlquery.Parameters.AddWithValue("eventid", number);
 
                 int rowsAffected = sqlquery.ExecuteNonQuery();
                 if (rowsAffected > 0)
