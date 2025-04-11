@@ -55,7 +55,7 @@ DonationDate datetime,
 shelterid int references shelters(shelterid)
 )
 
-
+select * from participants
 
 
 
@@ -106,7 +106,10 @@ on p.EventID=ae.EventID
 location) in the "Shelters" table. Use parameters to pass the shelter ID and the new information.
 Ensure that the procedure performs the update and handles potential errors, such as an invalid
 shelter ID.*/
-select * from shelters
+select * from adoptionevents
+select * from participants
+
+insert into adoptionevents values(3005,'PetAdopt','2025-05-09 10:20:00','Kerala')
 
 create procedure updateshelters1
 @name varchar(20),

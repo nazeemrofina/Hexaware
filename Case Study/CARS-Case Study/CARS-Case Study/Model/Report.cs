@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CARS_Case_Study.Model
+namespace CARS_Case_Study.Models
 {
     internal class Report
     {

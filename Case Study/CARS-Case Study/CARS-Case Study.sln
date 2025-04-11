@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CARS-Case Study", "CARS-Case Study\CARS-Case Study.csproj", "{332C0007-617F-4F90-895A-02DC65EEE545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CARS-Case Study.Tests", "CARS-Case Study.Tests\CARS-Case Study.Tests.csproj", "{3B819759-2FC2-4CD9-B5E5-8A68A2355202}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{332C0007-617F-4F90-895A-02DC65EEE545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{332C0007-617F-4F90-895A-02DC65EEE545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{332C0007-617F-4F90-895A-02DC65EEE545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B819759-2FC2-4CD9-B5E5-8A68A2355202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B819759-2FC2-4CD9-B5E5-8A68A2355202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B819759-2FC2-4CD9-B5E5-8A68A2355202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B819759-2FC2-4CD9-B5E5-8A68A2355202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

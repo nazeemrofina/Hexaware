@@ -11,6 +11,7 @@ namespace C__CodingChallenge.Service
 {
     class PetShelter
     {
+
         List<Pets> pets;
         SqlConnection con;
         SqlDataReader sdr;
@@ -39,11 +40,11 @@ namespace C__CodingChallenge.Service
                 Console.WriteLine(e.Message);
 
             }
-            catch(NullReferenceExceptionHandling e)
+            catch (NullReferenceExceptionHandling e)
             {
                 Console.WriteLine(e.Message);
             }
-             return pets;
+            return pets;
         }
         public void AddPets(Pets pet)
         {

@@ -8,7 +8,7 @@ namespace CARS_Case_Study.Repository
 {
     internal interface ICaseReportRepository
     {
-        List<CaseReport> GetAllCaseReports();
-        List<CaseReport> GetCaseReportById(int reportId);
+       // List<CaseReport> GetAllCaseReports();
+       // List<CaseReport> GetCaseReportById(int reportId);
     }
 }

@@ -1,4 +1,4 @@
-﻿using CARS_Case_Study.Model;
+﻿using CARS_Case_Study.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

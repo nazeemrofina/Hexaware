@@ -1,0 +1,23 @@
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\CARS-Case Study.csproj.AssemblyReference.cache
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\CARS-Case Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\CARS-Case Study.AssemblyInfoInputs.cache
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\CARS-Case Study.AssemblyInfo.cs
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\CARS-Case Study.csproj.CoreCompileInputs.cache
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\CARS-Case Study.sourcelink.json
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\bin\Debug\net8.0\CARS-Case Study.exe
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\bin\Debug\net8.0\CARS-Case Study.deps.json
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\bin\Debug\net8.0\CARS-Case Study.runtimeconfig.json
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\bin\Debug\net8.0\CARS-Case Study.dll
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\bin\Debug\net8.0\CARS-Case Study.pdb
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\CARS-Cas.ED710D68.Up2Date
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\CARS-Case Study.dll
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\refint\CARS-Case Study.dll
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\CARS-Case Study.pdb
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\CARS-Case Study.genruntimeconfig.cache
+C:\Hexaware c#\Sql assignments\Case Study\CARS-Case Study\CARS-Case Study\obj\Debug\net8.0\ref\CARS-Case Study.dll

@@ -50,39 +50,40 @@ namespace C__CodingChallenge
             adoptionEventClass aec = new adoptionEventClass();
             int number= aec.adoptioneventrecord();
             Console.WriteLine(number);
-         //   int eventid = 0;
+            //   int eventid = 0;
 
-         
 
-            Console.WriteLine("Give inputs of all the details of the Participant");
-            Console.WriteLine("Enter ParticipantId : ");
-            int ParticipantId = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter ParticipantName : ");
-            string ParticipantName = Console.ReadLine();
-            Console.WriteLine("Enter ParticipantTyoe : ");
-            string ParticipantType = (Console.ReadLine());
-
-            try
+            if (number > 0)
             {
-                con = util.getConnection();
-                String query = "insert into Participants values(@ParticipantId,@ParticipantName,@ParticipantType,@eventid)";
-                SqlCommand sqlquery = new SqlCommand(query, con);
-                sqlquery.Parameters.AddWithValue("ParticipantId", ++ParticipantId);
-                sqlquery.Parameters.AddWithValue("ParticipantName", ParticipantName);
-                sqlquery.Parameters.AddWithValue("ParticipantType", ParticipantType);
-                sqlquery.Parameters.AddWithValue("eventid", number);
+                Console.WriteLine("Give inputs of all the details of the Participant");
+                Console.WriteLine("Enter ParticipantId : ");
+                int ParticipantId = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter ParticipantName : ");
+                string ParticipantName = Console.ReadLine();
+                Console.WriteLine("Enter ParticipantTyoe : ");
+                string ParticipantType = (Console.ReadLine());
 
-                int rowsAffected = sqlquery.ExecuteNonQuery();
-                if (rowsAffected > 0)
+                try
                 {
-                    Console.WriteLine("Successfully Inserted Participant");
+                    con = util.getConnection();
+                    String query = "insert into Participants values(@ParticipantId,@ParticipantName,@ParticipantType,@eventid)";
+                    SqlCommand sqlquery = new SqlCommand(query, con);
+                    sqlquery.Parameters.AddWithValue("ParticipantId", ++ParticipantId);
+                    sqlquery.Parameters.AddWithValue("ParticipantName", ParticipantName);
+                    sqlquery.Parameters.AddWithValue("ParticipantType", ParticipantType);
+                    sqlquery.Parameters.AddWithValue("eventid", number);
+
+                    int rowsAffected = sqlquery.ExecuteNonQuery();
+                    if (rowsAffected > 0)
+                    {
+                        Console.WriteLine("Successfully Inserted Participant");
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
                 }
             }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
-
 
         }
         public void RecordParticipant(int eventid)
